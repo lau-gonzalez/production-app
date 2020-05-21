@@ -1,0 +1,28 @@
+.btn-margin{
+    margin-left: 20px;
+    color: white !important;
+}
+
+.nav-margin{
+    margin-bottom: 20px;
+}
+
+.input{
+    font-size: 16px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.auth_div{
+    margin: 20px 0;
+}
+
+.logo_nav{
+    width: 130px;
+}
+
+li{
+    font-size: 18px;
+    padding: 0 10px;
+}
+
